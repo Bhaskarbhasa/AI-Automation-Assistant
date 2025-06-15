@@ -1,6 +1,7 @@
 # 🧠 AI Automation Assistant
 
-*AI Automation Assistant* is a modular Python-based command-line system designed for intelligent command execution, automation routines, and persistent state management. It integrates SQLite for lightweight local storage, JSON for session cookies, and a flexible engine that allows rapid extension of new features or automation tasks. Built for developers, automation enthusiasts, and experimental AI systems.
+**AI Automation Assistant** is a modular Python-based command-line system designed for intelligent command execution, automation routines, and persistent state management. It integrates SQLite for lightweight local storage, JSON for session cookies, and a flexible engine that allows rapid extension of new features or automation tasks. Built for developers, automation enthusiasts, and experimental AI systems.
+
 
 ---
 
